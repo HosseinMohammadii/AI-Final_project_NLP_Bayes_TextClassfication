@@ -2,4 +2,4 @@
 
 for discover problems please read "Definition.pdf" and "Report.pdf"
 
-all codes working just tiny differnces in one part.
+all codes work just tiny differnces in one part.
